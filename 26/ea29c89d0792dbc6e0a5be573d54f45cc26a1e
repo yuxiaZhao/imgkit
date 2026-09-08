@@ -1,0 +1,43 @@
+demo/styles.css
+  s_10e7b7b821790a::t_23d33c44d35acf 1277,1281-1289,1291-1294,1296-1301,1303-1321,1323-1336,1338-1354,1356-1362,1364-1373,1375-1382,1384-1396,1398-1415,1417-1425,1427-1434
+  h_e0c00717ee0001 1278-1280,1290,1295,1302,1322,1337,1355,1363,1374,1383,1397,1416,1426
+demo/ui.ts
+  s_10e7b7b821790a::t_8280be9eebb6c8 635-650,664-667,670-774
+  s_10e7b7b821790a::t_670c689b861f65 1016-1020
+  s_10e7b7b821790a::t_99f96c7590d48f 651-653,661-663
+  s_10e7b7b821790a::t_9d13fab3577cf0 668-669
+  s_10e7b7b821790a::t_11e8d69633949a 775
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "26ea29c89d0792dbc6e0a5be573d54f45cc26a1e",
+  "prompts": {},
+  "humans": {
+    "h_e0c00717ee0001": {
+      "author": "zhaoyuxia <15460159+zhaoyuxia@user.noreply.gitee.com>"
+    }
+  },
+  "sessions": {
+    "s_10e7b7b821790a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9a58da1f7ab6fc6b68e408",
+        "model": "deepseek-V4-Pro__dev"
+      },
+      "human_author": "zhaoyuxia <15460159+zhaoyuxia@user.noreply.gitee.com>",
+      "custom_attributes": {
+        "operation_id": "6a9fd0fa1f7ab6fc6b68e72f",
+        "source_scene": "agent",
+        "session_id": "6a9a58da1f7ab6fc6b68e408",
+        "client_type": "ide",
+        "edit_kind": "bash",
+        "external_session_id": "6a9a58da1f7ab6fc6b68e408",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_use_id": "6a9fd0fa1f7ab6fc6b68e72f",
+        "tool_name": "RunCommand",
+        "display_model_name": "DeepSeek-V4-Pro"
+      }
+    }
+  }
+}

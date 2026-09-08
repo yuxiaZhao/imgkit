@@ -1,0 +1,40 @@
+demo/styles.css
+  s_10e7b7b821790a::t_1fc42cb3a3a5f9 890-893,903-935
+demo/ui.ts
+  s_10e7b7b821790a::t_265538cd3bbbc5 880-888
+  s_10e7b7b821790a::t_aa974f22208096 72
+  s_10e7b7b821790a::t_21b71d0ff694b9 18-59
+  s_10e7b7b821790a::t_6af7dcc2aaf286 1253-1256,1258,1261
+  s_10e7b7b821790a::t_3f7e656637dc34 1329-1390,1394-1398,1400-1405,1407-1408,1413-1416,1418-1420,1422-1428,1434,1438
+  s_10e7b7b821790a::t_0aee675990ad52 138
+  s_10e7b7b821790a::t_b891c882cd27ad 222-229
+  s_10e7b7b821790a::t_628eacbf394e64 1409-1412,1439,1442
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "058c828c319f0bff1675b8ddc78439e3b79d229b",
+  "prompts": {},
+  "sessions": {
+    "s_10e7b7b821790a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9a58da1f7ab6fc6b68e408",
+        "model": "deepseek-V4-Pro__dev"
+      },
+      "human_author": "zhaoyuxia <15460159+zhaoyuxia@user.noreply.gitee.com>",
+      "custom_attributes": {
+        "tool_use_id": "6a9f9b831f7ab6fc6b68e6d1",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "session_id": "6a9a58da1f7ab6fc6b68e408",
+        "external_session_id": "6a9a58da1f7ab6fc6b68e408",
+        "operation_id": "6a9f9b831f7ab6fc6b68e6d1",
+        "tool_name": "Edit",
+        "edit_kind": "file_edit",
+        "display_model_name": "DeepSeek-V4-Pro"
+      }
+    }
+  }
+}

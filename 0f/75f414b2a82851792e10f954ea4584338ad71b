@@ -1,0 +1,34 @@
+demo/ui.ts
+  s_10e7b7b821790a::t_71e0164314aee5 766,771,773,777-780
+  s_10e7b7b821790a::t_df3b70e9858fab 229-230
+  s_10e7b7b821790a::t_c79bac2aa235a8 1076,1080
+  s_10e7b7b821790a::t_31fe080f84d63f 809-810
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "0f75f414b2a82851792e10f954ea4584338ad71b",
+  "prompts": {},
+  "sessions": {
+    "s_10e7b7b821790a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9a58da1f7ab6fc6b68e408",
+        "model": "deepseek-V4-Pro__dev"
+      },
+      "human_author": "zhaoyuxia <15460159+zhaoyuxia@user.noreply.gitee.com>",
+      "custom_attributes": {
+        "client_type": "ide",
+        "external_session_id": "6a9a58da1f7ab6fc6b68e408",
+        "operation_id": "6aa208841f7ab6fc6b68e87a",
+        "edit_kind": "file_edit",
+        "tool_name": "Edit",
+        "display_model_name": "DeepSeek-V4-Pro",
+        "session_id": "6a9a58da1f7ab6fc6b68e408",
+        "source_scene": "agent",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_use_id": "6aa208841f7ab6fc6b68e87a"
+      }
+    }
+  }
+}

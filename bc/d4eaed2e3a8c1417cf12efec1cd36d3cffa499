@@ -1,0 +1,31 @@
+demo/ui.ts
+  s_10e7b7b821790a::t_a9472310a11fc9 375-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "bcd4eaed2e3a8c1417cf12efec1cd36d3cffa499",
+  "prompts": {},
+  "sessions": {
+    "s_10e7b7b821790a": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9a58da1f7ab6fc6b68e408",
+        "model": "deepseek-V4-Pro__dev"
+      },
+      "human_author": "zhaoyuxia <15460159+zhaoyuxia@user.noreply.gitee.com>",
+      "custom_attributes": {
+        "operation_id": "6aa218911f7ab6fc6b68e9b2",
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "session_id": "6a9a58da1f7ab6fc6b68e408",
+        "edit_kind": "file_edit",
+        "tool_name": "Edit",
+        "display_model_name": "DeepSeek-V4-Pro",
+        "tool_use_id": "6aa218911f7ab6fc6b68e9b2",
+        "client_type": "ide",
+        "external_session_id": "6a9a58da1f7ab6fc6b68e408"
+      }
+    }
+  }
+}

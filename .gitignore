@@ -2,4 +2,8 @@ node_modules
 dist
 coverage
 *.tsbuildinfo
+.vscode/*
 .trae/*
+docs/.vitepress/cache/*
+docs/.vitepress/dist/*
+demo/dist/*
